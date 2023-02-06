@@ -1,0 +1,11 @@
+C:\Users\elifo\Desktop\PROJELERİM\List ile Ögrenci Kaydetme Uygulaması\List ile Ögrenci Kaydetme Uygulaması\bin\Debug\List ile Ögrenci Kaydetme Uygulaması.exe.config
+C:\Users\elifo\Desktop\PROJELERİM\List ile Ögrenci Kaydetme Uygulaması\List ile Ögrenci Kaydetme Uygulaması\bin\Debug\List ile Ögrenci Kaydetme Uygulaması.exe
+C:\Users\elifo\Desktop\PROJELERİM\List ile Ögrenci Kaydetme Uygulaması\List ile Ögrenci Kaydetme Uygulaması\bin\Debug\List ile Ögrenci Kaydetme Uygulaması.pdb
+C:\Users\elifo\Desktop\PROJELERİM\List ile Ögrenci Kaydetme Uygulaması\List ile Ögrenci Kaydetme Uygulaması\obj\Debug\List ile Ögrenci Kaydetme Uygulaması.csproj.AssemblyReference.cache
+C:\Users\elifo\Desktop\PROJELERİM\List ile Ögrenci Kaydetme Uygulaması\List ile Ögrenci Kaydetme Uygulaması\obj\Debug\List ile Ögrenci Kaydetme Uygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\elifo\Desktop\PROJELERİM\List ile Ögrenci Kaydetme Uygulaması\List ile Ögrenci Kaydetme Uygulaması\obj\Debug\List_ile_Ögrenci_Kaydetme_Uygulaması.Form1.resources
+C:\Users\elifo\Desktop\PROJELERİM\List ile Ögrenci Kaydetme Uygulaması\List ile Ögrenci Kaydetme Uygulaması\obj\Debug\List_ile_Ögrenci_Kaydetme_Uygulaması.Properties.Resources.resources
+C:\Users\elifo\Desktop\PROJELERİM\List ile Ögrenci Kaydetme Uygulaması\List ile Ögrenci Kaydetme Uygulaması\obj\Debug\List ile Ögrenci Kaydetme Uygulaması.csproj.GenerateResource.cache
+C:\Users\elifo\Desktop\PROJELERİM\List ile Ögrenci Kaydetme Uygulaması\List ile Ögrenci Kaydetme Uygulaması\obj\Debug\List ile Ögrenci Kaydetme Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\elifo\Desktop\PROJELERİM\List ile Ögrenci Kaydetme Uygulaması\List ile Ögrenci Kaydetme Uygulaması\obj\Debug\List ile Ögrenci Kaydetme Uygulaması.exe
+C:\Users\elifo\Desktop\PROJELERİM\List ile Ögrenci Kaydetme Uygulaması\List ile Ögrenci Kaydetme Uygulaması\obj\Debug\List ile Ögrenci Kaydetme Uygulaması.pdb
